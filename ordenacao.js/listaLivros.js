@@ -1,5 +1,5 @@
- const livros = [
- {
+const livros = [
+{
     titulo: "Javascript", 
     preco: 25,
 },
