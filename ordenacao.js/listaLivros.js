@@ -23,4 +23,6 @@ const livros = [
     titulo:"Python",
     preco:20
 }
-]
+];
+
+module.exports = livros;
